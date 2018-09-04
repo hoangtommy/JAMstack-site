@@ -5,7 +5,7 @@ const IndexPage = () => (
   <div>
     <h1>Hi everyone</h1>
     <p>Looking forward to FCC Jamstack Hackathon!</p>
-    <p>I am a former public school teacher and most recently worked at the edtech startup, Altschool.</p>
+    <p>I am a former educator transitioning into web dev. See ya at the event!</p>
     <a href="https://tommyhoang.com/" target ="_blank">My website</a>
   </div>
 )
